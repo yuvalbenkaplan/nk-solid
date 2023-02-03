@@ -3377,7 +3377,7 @@ input, select, textarea {
 
 #bl{
 	position: absolute;
-  right: 100px;
+  right: 1em;
 }
 
 /* Banner */
